@@ -1,5 +1,5 @@
 <a href="https://www.upwork.com/freelancers/~0107f636fb6e7bc8b0">
-    <img src="https://github.com/Abubakarsq/abubakars/blob/main/banner.gif" alt="MasterHead" height="400">
+    <img src="https://github.com/Abubakarsq/abubakars/blob/main/banner.gif" alt="MasterHead" height="350" style="max-width: 100%; display: inline-block;">
 </a>
 <h1 align="center">Hi there, I'm Ndaman Abubakar 👋</h1>
 <h3 align="center">I'm a Python Developer with 4+ years of hands-on experience creating solutions across different areas like IoT automation, and Web Development. I love coding efficient, scalable, and clean systems, and I'm always curious to learn and push myself further.</h3>
