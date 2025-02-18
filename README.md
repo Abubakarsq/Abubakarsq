@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python development, IoT automation, web scraping**
 
-- 📫 How to reach me **ndamana88@gmail.com**
+- 📫 How to reach me, on upwork
 
 - ⚡ Fun fact **I love mastering new skills quickly.**
 
